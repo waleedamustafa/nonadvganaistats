@@ -1,3 +1,4 @@
+# modified from https://github.com/mperezortiz/PBB/blob/master/pbb/bounds.py
 import math
 import numpy as np
 import torch
